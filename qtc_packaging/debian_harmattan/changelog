@@ -1,0 +1,15 @@
+tictactoeoversockets (1.1.1) unstable; urgency=low
+  * Ad-hoc fix added.
+
+ -- unknown <>  Mon, 21 Nov 2011 08:51:19 +0200
+
+tictactoeoversockets (1.1.0) unstable; urgency=low
+  * Code refactoring and bug fixes.
+
+ -- unknown <>  Tue, 15 Nov 2011 15:21:39 +0200
+
+tictactoeoversockets (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- unknown <>  Thu, 29 Sep 2011 13:34:20 +0300

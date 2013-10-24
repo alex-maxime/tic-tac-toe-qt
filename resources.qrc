@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="SplashScreen.qml">qml/common/SplashScreen.qml</file>
+        <file alias="TicTac.qml">qml/common/TicTac.qml</file>
+        <file alias="TicTacGrid.qml">qml/common/TicTacGrid.qml</file>
+        <file alias="CommonUIConstants.js">qml/common/CommonUIConstants.js</file>
+        <file alias="info.png">gfx/info.png</file>
+        <file alias="splash-screen-icon.png">gfx/splash-screen-icon.png</file>
+    </qresource>
+</RCC>
